@@ -1,3 +1,3 @@
 # LassoSR
 Lasso Sign Recovery Github Repository
-This is the repo for the code regarding lasso sign recovery in screening designs. The main file, SIC_Paper_Function_Library.R, houses all of the technical functions.
+This is the repo for the code regarding lasso sign recovery in screening designs from the paper A Graphical Comparison of Screening Designs using Support Recovery Probabilities. The main file, Design_Comparison_Paper_Function_Library.R, houses all of the technical functions. The R script Exact_Lasso_Graphing_Template.R presents a template for comparing 4 generic main effects designs using the exact probabilities of lasso sign recovery like what is shown in figure 8 or the paper. The R script Simulated_Lasso_Sign_Recovery_Graphing_Template.R shows a template for simulation of lasso perfect sign recovery for screening designs with main effects and 2 factor interactions like what is shown in figure 9 in the paper. 
